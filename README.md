@@ -76,3 +76,9 @@ apt install iptables
 apt install strace
 
 ```
+
+### Recode & Updates 
+```
+Redesigned for CLI : Ghosthub 
+
+```
